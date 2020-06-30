@@ -1,2 +1,3 @@
 just sample powershell script to see list of services and stop and start the requried services
 added line!!
+CONFLICT CHECK
